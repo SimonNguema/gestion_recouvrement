@@ -1,0 +1,8 @@
+-Systeme d'authentification
+-les utilisateurs peuvent gérer leur profil
+-Afficher les payements des etudiants
+-Filtrer les paiements par annee academique
+-Enregistrer lettre d'engagements
+-Enregistrer les paiements des etudiants
+-Suivie des paiements
+-Historique de paiements des etudiants
