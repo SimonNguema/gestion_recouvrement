@@ -122,8 +122,6 @@ export default {
         return{
         
             form: new Form({
-               
-                
                 email: "",
                 password: "",          
                 role: "",
@@ -139,9 +137,7 @@ export default {
         async addUser(){
             if(
                 this.form.email != "" &&
-                this.form.password != "" 
-                
-                
+                this.form.password != ""      
             ){
 
                 try{
@@ -200,7 +196,7 @@ export default {
                        }
                    })
    
-               },
+        },
 
     
     }

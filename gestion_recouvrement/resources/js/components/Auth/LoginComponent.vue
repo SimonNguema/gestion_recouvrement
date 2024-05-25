@@ -50,7 +50,7 @@
   </template>
   
   
-  <script>
+<script>
 import axios from 'axios';
 import { Form } from 'vform';
 
